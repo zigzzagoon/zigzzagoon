@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zigzzagoon
+- 👋 Hi, I’m Krishnan
 - 👀 I’m interested in machine learning and data science
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on fun and interesting projects in data science
